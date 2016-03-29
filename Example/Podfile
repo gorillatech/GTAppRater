@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'GTAppRater_Example', :exclusive => true do
+  pod 'GTAppRater', :path => '../'
+end
+
+target 'GTAppRater_Tests', :exclusive => true do
+  pod 'GTAppRater', :path => '../'
+
+  
+end

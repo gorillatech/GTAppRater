@@ -1,0 +1,6 @@
+framework module GTAppRater {
+  umbrella header "GTAppRater-umbrella.h"
+
+  export *
+  module * { export * }
+}

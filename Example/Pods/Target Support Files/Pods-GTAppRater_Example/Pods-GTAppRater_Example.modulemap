@@ -1,0 +1,6 @@
+framework module Pods_GTAppRater_Example {
+  umbrella header "Pods-GTAppRater_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

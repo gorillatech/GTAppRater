@@ -1,0 +1,17 @@
+PODS:
+  - GTAppRater (0.1.0):
+    - iRate
+  - iRate (1.11.4)
+
+DEPENDENCIES:
+  - GTAppRater (from `../`)
+
+EXTERNAL SOURCES:
+  GTAppRater:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GTAppRater: ff841397c87f503bb652801038e5b58e1e3afcf4
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+
+COCOAPODS: 0.39.0
